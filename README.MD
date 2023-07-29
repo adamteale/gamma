@@ -10,7 +10,7 @@ Key Features:
 
 In an era where we spend hours gazing at our screens, protecting our eye health becomes paramount. With Gamma Tune Pro, not only do we foster healthier screen habits, but we also make sure you have a seamless and pleasant viewing experience all round.
 
-It's not just about adjusting the screen. It's about providing you the comfort and the freedom you deserve. It's about tuning the user experience to match your particular needs. That is what Gamma Tune Pro stands for.
+It's not just about adjusting the screen. It's about providing you the comfort and the freedom you deserve. It's about tuning the user experience to match your particular needs. That is what Gamma Tune Pro stands for!
 
 So why wait to start experiencing your Mac's display like never before? Download Gamma Tune Pro now and take control of your visual world today!
 
