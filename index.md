@@ -42,8 +42,25 @@ We advise you to review this Privacy Policy periodically for changes. Changes to
 
 If you have any questions or concerns about this Privacy Policy, please contact us: 
 
-**By Email: chilenismos@icloud.com**
+<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/e8fc3d0258f332b2e48c8ddc83de52fa?embedded=1"></div>
+
+<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+
+<!-- Get notified when the form is submitted, add your own code below: -->
+<script>
+const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+  console.log('Submitting form...')
+})
+
+formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+  console.log('Submitted form...')
+})
+</script>
 
 Your privacy is our priority. Thank you for trusting Gamma Tune Pro. 
 
 Remember, by downloading and using Gamma Tune Pro, you are agreeing to the terms of this Privacy Policy.
+
